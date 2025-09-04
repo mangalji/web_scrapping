@@ -1,0 +1,378 @@
+buffalo breed name: Al-Ahwar
+buffalo breed name: Al JamooseorJimes
+buffalo breed name: Anatolian buffalo
+buffalo breed name: Assam
+buffalo breed name: Australian buffalo
+buffalo breed name: Azari
+buffalo breed name: Azi Kheli
+buffalo breed name: Badavan
+buffalo breed name: Baio
+buffalo breed name: Baladi(= local or native)
+buffalo breed name: Balkan
+buffalo breed name: Bama kwye
+buffalo breed name: Bangladeshi
+buffalo breed name: Bangladeshi, albinoid of the central part of the country
+buffalo breed name: Bangladeshi, albinoid of the western part of the country
+buffalo breed name: Bangladeshi, native buffaloes in the central part
+buffalo breed name: Bangladeshi, native buffaloes in the eastern part
+buffalo breed name: Bangladeshi, native buffaloes in the southern part
+buffalo breed name: Bangladeshi, native buffaloes in the western part
+buffalo breed name: Banni
+buffalo breed name: Beheri
+buffalo breed name: Belang
+buffalo breed name: Bhadawari
+buffalo breed name: Bhainsi
+buffalo breed name: Bhavanegri
+buffalo breed name: Binhu
+buffalo breed name: Borneo buffalo
+buffalo breed name: Brazilian
+buffalo breed name: Brazilian Carabao
+buffalo breed name: Búfalo de Pantano
+buffalo breed name: Búfalo de Rio
+buffalo breed name: Buffalypso
+buffalo breed name: Bulgarian buffalo
+buffalo breed name: Bulgarian Murrah
+buffalo breed name: Burmese
+buffalo breed name: Burmese wild buffalo
+buffalo breed name: Cambodian buffalo
+buffalo breed name: Carabao
+buffalo breed name: Caucasian
+buffalo breed name: Chilika
+buffalo breed name: Chinese buffalo
+buffalo breed name: De
+buffalo breed name: Dechang
+buffalo breed name: Dehong
+buffalo breed name: Domaci bivo
+buffalo breed name: Dongliu
+buffalo breed name: Egyptian
+buffalo breed name: Enshi Mountainous
+buffalo breed name: Fu'an
+buffalo breed name: Fuling
+buffalo breed name: Fuzhong
+buffalo breed name: Gaddi
+buffalo breed name: Georgian buffalo
+buffalo breed name: Ghab
+buffalo breed name: Gilani
+buffalo breed name: Godavari
+buffalo breed name: Greek buffalo
+buffalo breed name: Guizhou
+buffalo breed name: Guizhou White
+buffalo breed name: Haizi
+buffalo breed name: Iranian and Iraqi
+buffalo breed name: Iranian
+buffalo breed name: Indonesian wild buffalo
+buffalo breed name: Iranian Azari ecotype
+buffalo breed name: Iraqi
+buffalo breed name: Italian
+buffalo breed name: Jafarabadi
+buffalo breed name: Jaffrabadi
+buffalo breed name: Jerangi
+buffalo breed name: Jianghan
+buffalo breed name: Kalaban
+buffalo breed name: Kalahandi
+buffalo breed name: Kalang
+buffalo breed name: Kebo
+buffalo breed name: Kerbau-Gunung
+buffalo breed name: Kerbau-Indonesia
+buffalo breed name: Kerbau Moa
+buffalo breed name: Kerbau-Murrah
+buffalo breed name: Kerbau-Sumatra-Barat
+buffalo breed name: Kerbau-Sumatra-Utara
+buffalo breed name: Kerbau-Sumbawa
+buffalo breed name: Khoozestani
+buffalo breed name: Kundi
+buffalo breed name: Lanka
+buffalo breed name: Lime
+buffalo breed name: Mahish
+buffalo breed name: Malaysian
+buffalo breed name: Manda
+buffalo breed name: Mannar
+buffalo breed name: Marathwada
+buffalo breed name: Masri
+buffalo breed name: Mediterranean
+buffalo breed name: Mehsana
+buffalo breed name: Mestizo
+buffalo breed name: Minufi
+buffalo breed name: Monouli
+buffalo breed name: Mountain buffalo
+buffalo breed name: Mountainous
+buffalo breed name: Munding
+buffalo breed name: Murrah
+buffalo breed name: Myanmar swamp buffalo
+buffalo breed name: Nagpuri
+buffalo breed name: Nelore
+buffalo breed name: Nepalese hill buffalo
+buffalo breed name: Nepalese mountain buffalo
+buffalo breed name: Ngo
+buffalo breed name: Nili
+buffalo breed name: Nili-Ravi
+buffalo breed name: Pa Sauk
+buffalo breed name: Pahadi
+buffalo breed name: Palitana
+buffalo breed name: Pampangan
+buffalo breed name: Panch Kalyani
+buffalo breed name: Pandharpuri
+buffalo breed name: Papua New Guinea buffalo
+buffalo breed name: Parkote
+buffalo breed name: Parlakimedi
+buffalo breed name: Peddakimedi
+buffalo breed name: Philippine
+buffalo breed name: Plain buffalo
+buffalo breed name: Purnathadi
+buffalo breed name: Purvi
+buffalo breed name: Ravi
+buffalo breed name: Rawa
+buffalo breed name: Romanian buffalo
+buffalo breed name: Rosilho
+buffalo breed name: Siamese buffalo
+buffalo breed name: Saidi
+buffalo breed name: Sambalpur
+buffalo breed name: Sapi Tenusu
+buffalo breed name: Sawah
+buffalo breed name: Shanghai
+buffalo breed name: Shan Kywe
+buffalo breed name: Shannan
+buffalo breed name: Southeast Yunnan
+buffalo breed name: South Kanara
+buffalo breed name: Surti
+buffalo breed name: Taiwan buffalo
+buffalo breed name: Tamankaduwa
+buffalo breed name: Tamarao
+buffalo breed name: Tarai buffalo
+buffalo breed name: Tedong
+buffalo breed name: Tipo Baio
+buffalo breed name: Toda
+buffalo breed name: Toraya
+buffalo breed name: Trâu Nội
+buffalo breed name: Trinitario
+buffalo breed name: Wenzhou
+buffalo breed name: Xiajiang
+buffalo breed name: Xilin
+buffalo breed name: Xinfeng Mountainous
+buffalo breed name: Xinglong
+buffalo breed name: Xingyang
+buffalo breed name: Yanjin
+buffalo breed name: Yibin
+buffalo breed name: Main page
+buffalo breed name: Contents
+buffalo breed name: Current events
+buffalo breed name: Random article
+buffalo breed name: About Wikipedia
+buffalo breed name: Contact us
+buffalo breed name: Help
+buffalo breed name: Learn to edit
+buffalo breed name: Community portal
+buffalo breed name: Recent changes
+buffalo breed name: Upload file
+buffalo breed name: Special pages
+buffalo breed name: Donate
+buffalo breed name: Create account
+buffalo breed name: Log in
+buffalo breed name: Donate
+buffalo breed name: Create account
+buffalo breed name: Log in
+buffalo breed name: Contributions
+buffalo breed name: Talk
+buffalo breed name: (Top)
+buffalo breed name: 1Breeds
+buffalo breed name: 2See also
+buffalo breed name: 3References
+buffalo breed name: 3.1Sources
+buffalo breed name: 3.1Sources
+buffalo breed name: Français
+buffalo breed name: Tiếng Việt
+buffalo breed name: Article
+buffalo breed name: Talk
+buffalo breed name: Read
+buffalo breed name: Edit
+buffalo breed name: View history
+buffalo breed name: Read
+buffalo breed name: Edit
+buffalo breed name: View history
+buffalo breed name: What links here
+buffalo breed name: Related changes
+buffalo breed name: Upload file
+buffalo breed name: Permanent link
+buffalo breed name: Page information
+buffalo breed name: Cite this page
+buffalo breed name: Get shortened URL
+buffalo breed name: Download QR code
+buffalo breed name: Download as PDF
+buffalo breed name: Printable version
+buffalo breed name: Wikidata item
+buffalo breed name: Brazilian Carabao
+buffalo breed name: § Jafarabadi
+buffalo breed name: § Jafarabadi
+buffalo breed name: § Mediterranean
+buffalo breed name: § Murrah
+buffalo breed name: § Jafarabadi
+buffalo breed name: § Mediterranean
+buffalo breed name: § Murrah
+buffalo breed name: § Shan Kwye
+buffalo breed name: gayal
+buffalo breed name: the Burmese gaur (eitherBos gaurus readaiorBos gaurus laosiensis)
+buffalo breed name: the Burmese bison
+buffalo breed name: § Mountain buffalo
+buffalo breed name: § Mountain buffalo
+buffalo breed name: [11]
+buffalo breed name: § Mountain buffalo
+buffalo breed name: § Baladi
+buffalo breed name: § Saidi
+buffalo breed name: § Gilani
+buffalo breed name: § Azari
+buffalo breed name: § Khuzestani
+buffalo breed name: § Sapi Tenusu
+buffalo breed name: § Sawah
+buffalo breed name: § Selembu
+buffalo breed name: the Purnathadi
+buffalo breed name: § Pandharpuri
+buffalo breed name: 
+buffalo breed name: List of cattle breeds
+buffalo breed name: Mason's World Encyclopedia of Livestock Breeds and Breeding
+buffalo breed name: v
+buffalo breed name: t
+buffalo breed name: e
+buffalo breed name: Lists of breeds
+buffalo breed name: Lists of cultivars
+buffalo breed name: Backcrossing
+buffalo breed name: Crossbreed
+buffalo breed name: Inbreeding
+buffalo breed name: Marker-assisted selection
+buffalo breed name: Mutation breeding
+buffalo breed name: Outcrossing
+buffalo breed name: Preservation breeding
+buffalo breed name: Selective breeding
+buffalo breed name: Smart breeding (Marker-assisted selection)
+buffalo breed name: Hybrid
+buffalo breed name: Purebred
+buffalo breed name: Cat
+buffalo breed name: Cattle
+buffalo breed name: Chicken
+buffalo breed name: Dog
+buffalo breed name: breeding
+buffalo breed name: Donkey
+buffalo breed name: Duck
+buffalo breed name: Goat
+buffalo breed name: Goose
+buffalo breed name: Guinea pig
+buffalo breed name: Horse
+buffalo breed name: breeding
+buffalo breed name: Pig
+buffalo breed name: Pigeon
+buffalo breed name: breeding
+buffalo breed name: Rabbit
+buffalo breed name: Sheep
+buffalo breed name: Turkey
+buffalo breed name: Water buffalo
+buffalo breed name: breeding
+buffalo breed name: breeding
+buffalo breed name: breeding
+buffalo breed name: Backyard breeder
+buffalo breed name: Breed standard
+buffalo breed name: Breeding back
+buffalo breed name: Breeding pair
+buffalo breed name: Breeding program
+buffalo breed name: Captive breeding
+buffalo breed name: Designer crossbreed
+buffalo breed name: Apple
+buffalo breed name: Japanese
+buffalo breed name: Banana
+buffalo breed name: Basil
+buffalo breed name: Callistemon
+buffalo breed name: Canna
+buffalo breed name: Cannabis
+buffalo breed name: Capsicum
+buffalo breed name: Cherimoya
+buffalo breed name: Citrus
+buffalo breed name: hybrids
+buffalo breed name: Coffee
+buffalo breed name: Cucumber
+buffalo breed name: Gazania
+buffalo breed name: Grape
+buffalo breed name: Grevillea
+buffalo breed name: Hop
+buffalo breed name: Mango
+buffalo breed name: Narcissus(daffodils)
+buffalo breed name: Nemesia
+buffalo breed name: Nepenthes
+buffalo breed name: Olives
+buffalo breed name: Onion
+buffalo breed name: Pear
+buffalo breed name: Rice
+buffalo breed name: Rose
+buffalo breed name: breeders
+buffalo breed name: cultivars
+buffalo breed name: Strawberry
+buffalo breed name: Sweet potato
+buffalo breed name: Sweetcorn
+buffalo breed name: Tomato
+buffalo breed name: Venus flytrap
+buffalo breed name: Japanese
+buffalo breed name: hybrids
+buffalo breed name: breeders
+buffalo breed name: cultivars
+buffalo breed name: Culling
+buffalo breed name: Marker-assisted selection
+buffalo breed name: Natural selection
+buffalo breed name: balancing
+buffalo breed name: directional
+buffalo breed name: disruptive
+buffalo breed name: negative
+buffalo breed name: selective sweep
+buffalo breed name: stabilizing
+buffalo breed name: Selection methods in plant breeding
+buffalo breed name: Genotype
+buffalo breed name: Phenotype
+buffalo breed name: Dominance
+buffalo breed name: Codominance
+buffalo breed name: Epistasis
+buffalo breed name: Dwarfing
+buffalo breed name: Heterosis
+buffalo breed name: Outbreeding depression
+buffalo breed name: Inbreeding depression
+buffalo breed name: Recessive trait
+buffalo breed name: Sex linkage
+buffalo breed name: F1 hybrid
+buffalo breed name: balancing
+buffalo breed name: directional
+buffalo breed name: disruptive
+buffalo breed name: negative
+buffalo breed name: selective sweep
+buffalo breed name: stabilizing
+buffalo breed name: Breed registry
+buffalo breed name: profession
+buffalo breed name: profession
+buffalo breed name: animal
+buffalo breed name: Eugenics
+buffalo breed name: Germline
+buffalo breed name: Heirloom plant
+buffalo breed name: Landrace
+buffalo breed name: Rare breed
+buffalo breed name: Tree breeding
+buffalo breed name: profession
+buffalo breed name: animal
+buffalo breed name: Water buffalo breeds
+buffalo breed name: Lists of breeds
+buffalo breed name: Articles with short description
+buffalo breed name: Short description is different from Wikidata
+buffalo breed name: Use dmy dates from July 2024
+buffalo breed name: Use list-defined references from September 2013
+buffalo breed name: Use British English from September 2013
+buffalo breed name: Articles containing Turkish-language text
+buffalo breed name: Articles containing Portuguese-language text
+buffalo breed name: Articles containing Bulgarian-language text
+buffalo breed name: Articles containing Burmese-language text
+buffalo breed name: Articles containing Italian-language text
+buffalo breed name: This page was last edited on 4 May 2025, at 23:25(UTC).
+buffalo breed name: Creative Commons Attribution-ShareAlike 4.0 License
+buffalo breed name: Privacy policy
+buffalo breed name: About Wikipedia
+buffalo breed name: Disclaimers
+buffalo breed name: Contact Wikipedia
+buffalo breed name: Code of Conduct
+buffalo breed name: Developers
+buffalo breed name: Statistics
+buffalo breed name: Cookie statement
+buffalo breed name: Mobile view
+buffalo breed name: 
+buffalo breed name: 

@@ -1,0 +1,241 @@
+breed name: Akhal-Teke
+breed name: Aegidienberger
+breed name: Alberta Wild Horse
+breed name: Altér Real
+breed name: Altmark cold-blood
+breed name: American Bashkir Curly
+breed name: American Belgian Draft
+breed name: American Cream Draft Horse
+breed name: American Drum Horse
+breed name: American Indian Horse
+breed name: American Miniature Horse
+breed name: American Saddlebred
+breed name: American Shetlandpony
+breed name: American Standardbred
+breed name: American Spotted
+breed name: American Spotted Paso
+breed name: American Walking Pony
+breed name: Andalusian Horse
+breed name: Anglo Arabian
+breed name: Appaloosa
+breed name: Arabian Horses
+breed name: Arabian-Berber
+breed name: Arabian Halfbred
+breed name: Arabian Partbred
+breed name: Arabian Friesian
+breed name: Arasian
+breed name: Ardennes
+breed name: Asil Arabian
+breed name: Assateague Pony
+breed name: Australian Stock Horse
+breed name: Australian Pony
+breed name: Azteca
+breed name: Baden-Württemberg
+breed name: Banker Horse
+breed name: Baroque Pinto
+breed name: Bavarian Warmblood
+breed name: Belgian Cold Blood
+breed name: Belgian Warmblood
+breed name: Berber
+breed name: Blazer Horse
+breed name: Bosnian Mountain Horse
+breed name: Boulonnais
+breed name: Brandenburg Warmblood
+breed name: Bretone
+breed name: British Warmblood
+breed name: Brumby Horse
+breed name: Budjonny Horses
+breed name: Camargue Pferde
+breed name: Camarillo White
+breed name: Campolina
+breed name: Canadian Horse
+breed name: Canadian Rustic Pony
+breed name: Canadian Pacer
+breed name: Canadian Pinto
+breed name: Canadian Sport Horse
+breed name: Canadian Warmblood
+breed name: Carolina Marsh Tacky
+breed name: Cerbat Mustang
+breed name: Chincoteague Pony
+breed name: Chickasaw Horse
+breed name: Cherokee Horse
+breed name: Choctaw Horse
+breed name: Classic Pony
+breed name: Cleveland-Bucht
+breed name: Clydesdale
+breed name: Clumberland Island Horse
+breed name: Cob Horse
+breed name: Colorado Ranger
+breed name: Colonial Spanish Horse
+breed name: Connemara Pony
+breed name: Conestoga Horse
+breed name: Comtois Horse
+breed name: Criollo Horse
+breed name: CSFR Warmblut
+breed name: Curly Horse
+breed name: Dales Pony
+breed name: Danish Warmblood
+breed name: Dartmoor Horses
+breed name: Delibos
+breed name: Don horse
+breed name: Donkey
+breed name: Drum-Horse
+breed name: Dülmen wild horses
+breed name: English thoroughbred
+breed name: Exmoor Pony
+breed name: Falabella
+breed name: Fur Pony
+breed name: Fjord horses
+breed name: Florida Cracker Horse
+breed name: French Trotter
+breed name: Frederiksborg
+breed name: Freiberger
+breed name: Frisian horse
+breed name: Furioso
+breed name: German Trotter
+breed name: German Classic Pony
+breed name: German Riding Horse
+breed name: German Riding Pony
+breed name: German Sport Horse
+breed name: Georgian Grande Horse
+breed name: Galiceno Pony
+breed name: Gelderland
+breed name: Gotland Pony
+breed name: Gypsy Horse
+breed name: Hackney
+breed name: Hackney pony
+breed name: Haflinger Horse
+breed name: Hanoverian Horse
+breed name: Hessian Warmblood
+breed name: Highland pony
+breed name: Hispano-Arabian
+breed name: Holstein
+breed name: Huzule
+breed name: Indianbred
+breed name: Irish Draught
+breed name: Irish Sport Horse
+breed name: Icelandic Horse
+breed name: Jutland Horse
+breed name: Kabardian
+breed name: Karabagh
+breed name: Karachai
+breed name: Kathiawari
+breed name: Kanata Pony
+breed name: Kentucky Mountain Saddle Horse
+breed name: Kiger Horse
+breed name: Kiger Mustang
+breed name: Kinsky horse
+breed name: Kisberer
+breed name: Kladruber
+breed name: KMSH
+breed name: Knabstrupper
+breed name: Konik
+breed name: KWPN
+breed name: Lac La Croix Indian Pony
+breed name: Leonhard
+breed name: Latvian Warmblood
+breed name: Lewitzer
+breed name: Lipizzaners
+breed name: Lusitanos
+breed name: Mangalarga Marchador
+breed name: Maremmano
+breed name: Marocco Spotted
+breed name: Mule
+breed name: Mecklenburg Warmblood
+breed name: Menorquin
+breed name: Merens
+breed name: Mingrelian
+breed name: Mini Shetty
+breed name: Missouri Fox Trotter
+breed name: Mongolian Pony
+breed name: Morab Horse
+breed name: Morgan Horse
+breed name: Moritzburg
+breed name: Mountain Pleasure Horse
+breed name: Murgese
+breed name: Mustang
+breed name: National Show Horse
+breed name: National Spotted Saddle Horse
+breed name: New Forest Pony
+breed name: Newfoundland Pony
+breed name: Nemaiah Valley Horse
+breed name: Nez Perce Horse
+breed name: Noriker
+breed name: Nokota Horses
+breed name: Norwegian Horses
+breed name: North Swedish Horse
+breed name: Oldenburg Horse
+breed name: Oldenburg show jumper
+breed name: Orlov Trotter
+breed name: P.R.E
+breed name: Paint Horse
+breed name: Palomino Horse
+breed name: Paso Fino
+breed name: Paso Iberoamericano
+breed name: Paso Peruano
+breed name: Percheron
+breed name: Pintos
+breed name: Polish Warmblood
+breed name: Polo Pony
+breed name: Pony of the Americas
+breed name: Portuguese Sport Horse
+breed name: Pottok
+breed name: Przewalski
+breed name: Pryor Mountain Mustang
+breed name: Pura Raza Mallorquina
+breed name: Quarab Horses
+breed name: Quarter Horse
+breed name: Qurater Pony
+breed name: Racking Horse
+breed name: Rhenish-Westphalian cold-blooded horse
+breed name: Rhineland
+breed name: Rocky Mountain Horse
+breed name: Rottaler Horse
+breed name: Russian Riding Horse
+breed name: Saxony-Anhaltian
+breed name: Saxon Thuringian Coldblood
+breed name: Saxon Warmblood
+breed name: Sable Island Pony
+breed name: Silesian
+breed name: Schleswiger Horses
+breed name: Swedish Warmblood
+breed name: Schweike
+breed name: Swiss Warmblood
+breed name: Selle Francais
+breed name: Senner Horse
+breed name: Shagya Arabian
+breed name: Shetland Pony
+breed name: Shire Horse
+breed name: Slovakian Warmblood
+breed name: Sorraia
+breed name: Spanish Mustang
+breed name: Spanish Jennet Horse
+breed name: Spanish Barb
+breed name: Spotted Saddle Horse
+breed name: Southern German Cold Blood
+breed name: Suffolk
+breed name: Tarpan
+breed name: Tennessee Walking Horse
+breed name: Tersker
+breed name: Thuringian Warmblood
+breed name: Tiger Horse
+breed name: Tinker
+breed name: Tori
+breed name: Trakehner
+breed name: Tuigpaard
+breed name: Ukrainian Sport Horse
+breed name: Ukrainian Horse
+breed name: Virginia Highland
+breed name: Warlander
+breed name: Walkaloosa
+breed name: Welara
+breed name: Welsh-A
+breed name: Welsh-B
+breed name: Welsh-C
+breed name: Welsh-D
+breed name: Welsh-PB
+breed name: Westphalian Horse
+breed name: Württemberger
+breed name: Zangersheider Horse
+breed name: Žemaitukai Horse
+breed name: Zweibrücker Horse

@@ -1,0 +1,22 @@
+rat breed name: Aceh Rats
+rat breed name: Andaman Archipelago Rats
+rat breed name: Annandale’s Rats
+rat breed name: Arianus’ New Guinea Mountain Rats
+rat breed name: Australian Pale Field Rats
+rat breed name: Australian Swamp Rats
+rat breed name: Black Rat
+rat breed name: Bonthain Rats
+rat breed name: Brown Rat
+rat breed name: Bush Rats
+rat breed name: Cape York Rats
+rat breed name: Christmas Island Rats
+rat breed name: Dusky Rats
+rat breed name: Himalayan Field Rats
+rat breed name: Himalayan Rats
+rat breed name: Little Soft Furred Rats
+rat breed name: Long-haired Rats
+rat breed name: New Ireland Forest Rats
+rat breed name: Nillu Rats
+rat breed name: Polynesian Rats
+rat breed name: Rice-field Rats
+rat breed name: Sikkim Rats

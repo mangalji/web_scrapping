@@ -1,0 +1,603 @@
+Animal name: Aardvark
+Animal name: Aardwolf: The Shy Night-Time Forager of Africa
+Animal name: Addax
+Animal name: Adelie Penguin
+Animal name: African Buffalo
+Animal name: African Elephant
+Animal name: African Forest Elephant
+Animal name: African Lions
+Animal name: African Penguin
+Animal name: African Spurred Tortoise
+Animal name: African Wild Dog
+Animal name: Africanized Bees
+Animal name: Allen’s Swamp Monkeys
+Animal name: Alligator
+Animal name: Alligator Gar – A Keystone Species in America’s Freshwaters
+Animal name: Allis Shad
+Animal name: Alpine Ibex
+Animal name: Amazon River Dolphin
+Animal name: Amazonian Manatee
+Animal name: American Badger
+Animal name: American Kestrel
+Animal name: American Oystercatcher Bird
+Animal name: Anaconda Snake
+Animal name: Ants
+Animal name: Aquatic Warbler
+Animal name: Arctic Wolf
+Animal name: Armadillo
+Animal name: Asian Elephant
+Animal name: Asian Lion
+Animal name: Atlantic Puffin
+Animal name: Atlantic Spotted Dolphins
+Animal name: Atlantic Wolffish
+Animal name: Atlas Beetle
+Animal name: Audubon’s Shearwater Bird
+Animal name: Australasian Grebe
+Animal name: Australian Dingo
+Animal name: Australian Pelican
+Animal name: Australian Swiftlet
+Animal name: Axolotl
+Animal name: Bactrian Camels
+Animal name: Badger
+Animal name: Bald Eagle
+Animal name: Baltimore Oriole
+Animal name: Banana Spiders – An Exploration of The Golden Silk Orb-Weaver
+Animal name: Bandicoots – Small Marsupials With Big Snouts
+Animal name: Bean Goose
+Animal name: Bees
+Animal name: Beetle
+Animal name: Beluga Sturgeon – The Jewel of the Caspian Sea
+Animal name: Bengal Tigers
+Animal name: Betta Fish (Siamese Fighting Fish)
+Animal name: Big Eyed Squirrel Fish
+Animal name: Bigfin Reef Squid
+Animal name: Bigfin Squid
+Animal name: Bison
+Animal name: Black Caimans
+Animal name: Black Footed Ferret
+Animal name: Black House Spider
+Animal name: Black Mamba Snakes
+Animal name: Black Necked Stilt
+Animal name: Black Rhinoceros
+Animal name: Black Widow Spider
+Animal name: Blackbird (Common) – Europe’s Shadowy Songsters
+Animal name: Blacktip Reef Shark
+Animal name: Blacktip Shark
+Animal name: Blister Beetle
+Animal name: Blue and Yellow Macaw
+Animal name: Blue Ringed Octopus
+Animal name: Blue Whale
+Animal name: Blue-footed Booby Bird
+Animal name: Boa Constrictor Snake
+Animal name: Bottlenose Dolphins
+Animal name: Bowhead Whale
+Animal name: Box Jellyfish – Deadly Yet Delicate
+Animal name: Brandling Worms
+Animal name: Brazilian Wandering Spider
+Animal name: British Mice
+Animal name: British Moles
+Animal name: British Water Vole
+Animal name: British Wild Cats
+Animal name: Broad-Snouted Caimans
+Animal name: Brown Recluse Spider
+Animal name: Brown Trout
+Animal name: Bull Shark
+Animal name: Bumble Bees
+Animal name: Burrowing Owl
+Animal name: Burying Beetle
+Animal name: Butterflies
+Animal name: Cactus Wren Facts
+Animal name: California Condor – Back From The Brink
+Animal name: Camel Cricket
+Animal name: Camel Spider
+Animal name: Camels
+Animal name: Campbell’s Dwarf Hamster
+Animal name: Canada Goose
+Animal name: Canadian Marble Fox
+Animal name: Cape Gannet Bird
+Animal name: Capercaillie
+Animal name: Capuchin Monkeys
+Animal name: Capybara
+Animal name: Caracal
+Animal name: Cardinal Birds
+Animal name: Caribbean Reef Shark
+Animal name: Caribou (Reindeer)
+Animal name: Cassowary Bird Facts
+Animal name: Cats
+Animal name: Centipede
+Animal name: Chameleon – Masters Of Adaption
+Animal name: Cheetah
+Animal name: Chickaree
+Animal name: Chickens
+Animal name: Chimpanzee
+Animal name: Chinchilla
+Animal name: Chinese Hamsters
+Animal name: Chinstrap Penguin
+Animal name: Chipmunk
+Animal name: Christmas Beetle
+Animal name: Cicada Killer Wasps
+Animal name: Click Beetle
+Animal name: Coati – The Lesser-Known Ring-Tailed Wanderers
+Animal name: Colossal Squid
+Animal name: Commerson Dolphin
+Animal name: Common Buzzard
+Animal name: Common Dolphin
+Animal name: Common Frog
+Animal name: Common Hippopotamus
+Animal name: Common Kingfisher
+Animal name: Common Lizard
+Animal name: Common Newt
+Animal name: Common Octopus
+Animal name: Common Palm Civet
+Animal name: Common Seal
+Animal name: Common Toad
+Animal name: Common Wasps
+Animal name: Cone Snail
+Animal name: Cooper’s Hawk
+Animal name: Copepods
+Animal name: Copperhead Snakes
+Animal name: Corncrake
+Animal name: Cottonmouth Snakes
+Animal name: Cows
+Animal name: Coyote
+Animal name: Crab Plover
+Animal name: Crabs
+Animal name: Crocodile
+Animal name: Crows – Life and Lore of these Intelligent Birds
+Animal name: Cuban Solenodon
+Animal name: Cuviers Dwarf Caimans
+Animal name: Darkling Beetle
+Animal name: De Brazza’s Monkeys
+Animal name: Deer
+Animal name: Degu
+Animal name: Dik Dik
+Animal name: Dog
+Animal name: Dolphins
+Animal name: Domestic Pig
+Animal name: Dragonfly
+Animal name: Dromedary Camels
+Animal name: Drywood Termites
+Animal name: Duck-billed Platypus
+Animal name: Ducks
+Animal name: Dung Beetle
+Animal name: Earthworms
+Animal name: Eastern Lowland Gorillas
+Animal name: Eastern Wolf
+Animal name: Echidna
+Animal name: Elephant Seal
+Animal name: Elephant Shrew
+Animal name: Elephants
+Animal name: Elk
+Animal name: Emperor Penguin
+Animal name: Emu
+Animal name: Erect-Crested Penguin
+Animal name: Ethiopian Wolf
+Animal name: Eurasian Beaver
+Animal name: Eurasian Eagle Owl
+Animal name: Eurasian Water Shrew
+Animal name: Eurasian Wolf
+Animal name: Eurasian Wryneck
+Animal name: European Hare
+Animal name: European Otter
+Animal name: False Black Widow Spider
+Animal name: Fennec Fox
+Animal name: Ferret
+Animal name: Field Vole
+Animal name: Fiji Blue Devil Damsel Fish
+Animal name: Fiordland Crested Penguin
+Animal name: Fisher Cat – Master Hunters In Canada’s Forests
+Animal name: Fishing Cat –  The Asian Wetlands Feline
+Animal name: Flatworms
+Animal name: Fungus Beetle
+Animal name: Funnel Web Spider
+Animal name: Gaboon Viper – The Snake with the Longest Fangs
+Animal name: Galapagos Barn Owls
+Animal name: Galapagos Black Tipped Shark
+Animal name: Galapagos Brown Noddy Tern
+Animal name: Galapagos Brown Pelican Birds
+Animal name: Galapagos Brydes Whale
+Animal name: Galapagos Dark Billed Cuckoo
+Animal name: Galapagos Dove
+Animal name: Galapagos Eels
+Animal name: Galapagos Fin Whales
+Animal name: Galapagos Finches
+Animal name: Galapagos Flamingo
+Animal name: Galapagos Flightless Cormorant Sea Bird
+Animal name: Galapagos Flycatcher Bird
+Animal name: Galapagos Fur Seals
+Animal name: Galapagos Gecko
+Animal name: Galapagos Giant Tortoise
+Animal name: Galapagos Great Blue Heron Bird
+Animal name: Galapagos Great Frigate Bird
+Animal name: Galapagos Green Sea Turtle
+Animal name: Galapagos Hammerhead Shark
+Animal name: Galapagos Hawk
+Animal name: Galapagos Hoary Bat
+Animal name: Galapagos Humpback Whale
+Animal name: Galapagos Killer Whale – The Orca
+Animal name: Galapagos Land Iguana
+Animal name: Galapagos Lava Gull Bird
+Animal name: Galapagos Lava Heron Bird
+Animal name: Galapagos Lava Lizard
+Animal name: Galapagos Marine Iguana
+Animal name: Galapagos Masked Booby Bird
+Animal name: Galapagos Minke Whale
+Animal name: Galapagos Mockingbird
+Animal name: Galapagos Nazca Booby Bird
+Animal name: Galapagos Penguin
+Animal name: Galapagos Rail Bird
+Animal name: Galapagos Rays
+Animal name: Galapagos Red Bat
+Animal name: Galapagos Red Billed Tropic Bird
+Animal name: Galapagos Red Footed Booby Bird
+Animal name: Galapagos Rice Rat
+Animal name: Galapagos Sea Lions
+Animal name: Galapagos Short Eared Owl
+Animal name: Galapagos Short Finned Pilot Whale
+Animal name: Galapagos Silky Shark
+Animal name: Galapagos Smooth Billed Ani Bird
+Animal name: Galapagos Snakes
+Animal name: Galapagos Sperm Whale
+Animal name: Galapagos Storm Petrel Bird
+Animal name: Galapagos Swallow Tailed Gull
+Animal name: Galapagos Waved Albatross
+Animal name: Galapagos Whale Shark
+Animal name: Galapagos Whimbrel Birds
+Animal name: Galapagos White Cheeked Pintail Duck
+Animal name: Galapagos White Tipped Reef Shark
+Animal name: Galapagos Willet Bird
+Animal name: Galapagos Yellow Warbler Bird
+Animal name: Galapagos Yellow-Crowned Night Heron
+Animal name: Garter Snakes – From Gardens to Wetlands to Household Pets
+Animal name: Gemsbok
+Animal name: Gentoo Penguin
+Animal name: Gerenuk
+Animal name: Gharial
+Animal name: Giant Anteater
+Animal name: Giant Grouper
+Animal name: Giant Pacific Octopus
+Animal name: Giant Panda Bear
+Animal name: Giant Sable Antelope
+Animal name: Giant Squid
+Animal name: Giraffe
+Animal name: Goats
+Animal name: Gold, Silver and Blue Monkeys
+Animal name: Golden Eagle
+Animal name: Golden Pheasant
+Animal name: Gorillas
+Animal name: Grass Spiders
+Animal name: Grasshopper
+Animal name: Gray Fox
+Animal name: Great Barracuda
+Animal name: Great Bittern
+Animal name: Great Crested Newt
+Animal name: Great Green Macaw
+Animal name: Great Grey Owl
+Animal name: Great Horned Owl – A Symbol of Wisdom and Strength
+Animal name: Great White African Pelican Birds
+Animal name: Great White Shark
+Animal name: Greater Flamingo
+Animal name: Greater Horseshoe Bat
+Animal name: Greater Mouse-Eared Bat
+Animal name: Greater Spot-Nosed Monkeys
+Animal name: Green Caterpillars
+Animal name: Green Cheeked Conure
+Animal name: Green Crabs
+Animal name: Green Scarab Beetle
+Animal name: Green Tree Python
+Animal name: Grevy’s Zebra
+Animal name: Grey Jungle Fowl Bird
+Animal name: Grey Loerie bird
+Animal name: Grey Partridge
+Animal name: Grey Seal
+Animal name: Grey Wolf
+Animal name: Grivet Monkeys
+Animal name: Grizzly Bear
+Animal name: Ground Beetle
+Animal name: Ground Centipede
+Animal name: Groundhog
+Animal name: Guinea Pigs
+Animal name: Hamerkop Bird
+Animal name: Hamsters
+Animal name: Harbour Porpoise
+Animal name: Harp Seal
+Animal name: Harpy Eagle
+Animal name: Hazel Dormouse
+Animal name: Hectors Dolphin
+Animal name: Hedgehog
+Animal name: Hercules Beetle – Titans of the Insect Kingdom
+Animal name: Hermit Crabs
+Animal name: Heron
+Animal name: Hippopotamus
+Animal name: Hobo Spider
+Animal name: Hognose Snakes – Theatrical Flair And A Distinctive Snout
+Animal name: Honey Bee
+Animal name: Honey Bee Characteristics
+Animal name: Hoopoe Birds
+Animal name: Hornets
+Animal name: Horny Toads – The Desert’s Miniature Lizards
+Animal name: Horses
+Animal name: Horseshoe Crabs
+Animal name: House Centipede
+Animal name: Howler Monkeys
+Animal name: Humboldt Penguin
+Animal name: Huntsman Spider
+Animal name: Hydrozoan Jellyfish
+Animal name: Ibisbill Bird
+Animal name: Iguana – Understanding The Species, Their Features And Habitats
+Animal name: Impala
+Animal name: Indian Cuckoo Bird
+Animal name: Indian Rhinoceros
+Animal name: Indian Skimmer Bird
+Animal name: Italian Wolf
+Animal name: Jackal
+Animal name: Jaguar
+Animal name: Jambu Fruit Dove
+Animal name: Japanese Spider Crabs
+Animal name: Javan Rhinoceros
+Animal name: Jellyfish
+Animal name: Katipo Spider
+Animal name: Kea Parrot
+Animal name: Kestrel Bird
+Animal name: Killdeer
+Animal name: King Cobra Snakes
+Animal name: King Penguin
+Animal name: King Salmon
+Animal name: Kinkajou
+Animal name: Kittens
+Animal name: Koala – Fascinating Facts & Info
+Animal name: Komodo Dragon
+Animal name: Krill
+Animal name: Ladybird / Ladybug
+Animal name: Laughing Kookaburra
+Animal name: Leafy Sea Dragon – Masters Of Camouflage And Mimicry
+Animal name: Lemmings
+Animal name: Lemon Shark – Masters of Mangroves and Shallow Waters
+Animal name: Lemur
+Animal name: Leopard
+Animal name: Leopard Seal
+Animal name: Leopard Tortoise
+Animal name: Liger – Understanding The Hybrid Big Cats
+Animal name: Lion
+Animal name: Little Fairy Penguin
+Animal name: Little Owl  (Athene noctua) Facts
+Animal name: Lizards
+Animal name: Llama
+Animal name: Long Eared Owl
+Animal name: Long Horned Beetle
+Animal name: Longhorn Cowfish
+Animal name: Lynx
+Animal name: Macaque Monkeys
+Animal name: Macaroni Penguin
+Animal name: Magellanic Penguin
+Animal name: Magpie
+Animal name: Manatee
+Animal name: Maned Wolf
+Animal name: Mantis Shrimp
+Animal name: Manx Shearwater Bird
+Animal name: Marine Angelfish
+Animal name: Markhor
+Animal name: Masai Giraffe
+Animal name: Masked Finfoot Bird
+Animal name: Mayfly – A Glimpse Into Their Delicate Existence
+Animal name: Mealy Parrot
+Animal name: Meerkat
+Animal name: Mexican Wolf
+Animal name: Mice
+Animal name: Military Macaw Parrot
+Animal name: Milkweed Beetle
+Animal name: Millipedes
+Animal name: Mongoose
+Animal name: Monkeys
+Animal name: Moorhen
+Animal name: Moose
+Animal name: Moray Eel
+Animal name: Morpho Butterfly
+Animal name: Moth
+Animal name: Mottled Owl Facts
+Animal name: Mountain Goat
+Animal name: Mountain Gorillas
+Animal name: Mountain Zebra
+Animal name: Mourning Dove
+Animal name: Mouse Deer – Exploring the Smallest Hoofed Mammal
+Animal name: Mouse Spider
+Animal name: Mud Dauber Wasp
+Animal name: Musk Ox
+Animal name: Muskrat – Engineers Of The North American Wetlands
+Animal name: Natterjack Toad
+Animal name: New World Monkeys
+Animal name: New World Tarantula Spider
+Animal name: North American Beaver
+Animal name: Northern Mockingbird
+Animal name: Northern Short-tailed Shrew
+Animal name: Numbat
+Animal name: Nurse Shark
+Animal name: Ocelot
+Animal name: Okapi
+Animal name: Old World Monkeys
+Animal name: Old World Tarantula Spiders
+Animal name: Opossums
+Animal name: Orangutan
+Animal name: Orb Weaver Spiders
+Animal name: Oryx (Antelope)
+Animal name: Osprey
+Animal name: Ostrich Birds
+Animal name: Pantropical Spotted Dolphins
+Animal name: Paper Wasp
+Animal name: Parasitic Bees
+Animal name: Peacock Spiders – Australia’s Dancing Arachnids
+Animal name: Peafowl Peacock
+Animal name: Peccary (Javelina)
+Animal name: Penguin
+Animal name: Peregrine Falcon
+Animal name: Peruvian Fox
+Animal name: Pigs
+Animal name: Pine Marten
+Animal name: Piranha Fish
+Animal name: Plains Zebra
+Animal name: Poison Arrow Frogs
+Animal name: Poisonous Caterpillars
+Animal name: Polar Bear
+Animal name: Polecat
+Animal name: Pollan Fish
+Animal name: Porcupine
+Animal name: Possum
+Animal name: Potter Wasps
+Animal name: Prairie Dogs – A Keystone Species of the American Plains
+Animal name: Praying Mantis
+Animal name: Preuss’s Monkey
+Animal name: Pufferfish – Why They Inflate And Other Facts
+Animal name: Puma Cat
+Animal name: Pygmy Hippopotamus
+Animal name: Quagga Zebra
+Animal name: Quokka
+Animal name: Quolls
+Animal name: Rabbits
+Animal name: Raccoon
+Animal name: Raccoon Dog
+Animal name: Rainbow Bee Eater
+Animal name: Ratel
+Animal name: Rattlesnakes
+Animal name: Raven – Large, Mysterious and Devilishly Clever
+Animal name: Red Back Jumping Spiders
+Animal name: Red British Squirrel
+Animal name: Red Fox – Nature’s Original Artful Dodger
+Animal name: Red Kangaroo
+Animal name: Red Kite – A Symbol of Hope and Good Luck
+Animal name: Red Knot
+Animal name: Red Panda
+Animal name: Red Rock Crabs
+Animal name: Red Winged Blackbird
+Animal name: Red Wolf
+Animal name: Red-backed Shrike
+Animal name: Red-tailed Hawk
+Animal name: Reticulated Giraffe
+Animal name: Rhinoceros
+Animal name: Rhinoceros Beetle
+Animal name: Right Whales
+Animal name: Risso’s Dolphin
+Animal name: Roborovski Hamsters
+Animal name: Rockhopper Penguin
+Animal name: Rough-Toothed Dolphins
+Animal name: Royal Penguin
+Animal name: Sacred Ibis Bird
+Animal name: Saki Monkeys
+Animal name: Sally Lightfoot Crab
+Animal name: Sand Lizard
+Animal name: Scarlet Macaw
+Animal name: Schneider’s Dwarf Caiman
+Animal name: Scottish Crossbill
+Animal name: Sea Lion
+Animal name: Sea Snakes
+Animal name: Sea Urchin
+Animal name: Seagull
+Animal name: Seahorse
+Animal name: Seals
+Animal name: Secretary Bird
+Animal name: Serval
+Animal name: Shark
+Animal name: Sheep
+Animal name: Shoveler
+Animal name: Silvery Gibbon
+Animal name: Six Eyed Sand Spider
+Animal name: Skipper Butterflies
+Animal name: Skunk
+Animal name: Skylark
+Animal name: Slender Loris
+Animal name: Slipper Lobster
+Animal name: Sloth
+Animal name: Slow Worm
+Animal name: Slug
+Animal name: Snakes
+Animal name: Snares Penguin
+Animal name: Snow Goose
+Animal name: Snow Leopard
+Animal name: Snowshoe Hare
+Animal name: Solitary Bees
+Animal name: Song Thrush
+Animal name: South American Horned Frog – From Camouflage to Cannibalism
+Animal name: Southern Short-tailed Shrew
+Animal name: Spectacled Bear
+Animal name: Spectacled Owl Facts
+Animal name: Spectacled/Common Caiman
+Animal name: Spider Monkey
+Animal name: Spiders
+Animal name: Spinner Dolphins
+Animal name: Spiny Lobster
+Animal name: Spotted Beetle
+Animal name: Spotted Hyena
+Animal name: Squirrel Monkeys
+Animal name: St Andrews Cross Spider
+Animal name: Stag Beetle
+Animal name: Stellers Sea Cow
+Animal name: Stick Bugs – Nature’s Masters of Disguise
+Animal name: Stingless Bees
+Animal name: Stink Bugs
+Animal name: Stoat
+Animal name: Stone Curlew
+Animal name: Stone Dwelling Centipede
+Animal name: Striped Dolphins
+Animal name: Striped Hyena
+Animal name: Sturgeon – Ancient Freshwater Fish
+Animal name: Sugar Maple Borer Beetle
+Animal name: Sumatran Rhinoceros
+Animal name: Syrian Hamster
+Animal name: Tamarin Monkeys
+Animal name: Tangle Web Spiders
+Animal name: Tapir
+Animal name: Tarantula Hawk – Powerful Stingers In The Sky
+Animal name: Tarantula Spider
+Animal name: Tawny Eagle
+Animal name: Tawny Frogmouth
+Animal name: Tawny Owl
+Animal name: Teira Batfish (Platax teira)
+Animal name: Thomson’s Gazelle
+Animal name: Tiger Shark
+Animal name: Titi Monkeys
+Animal name: Toco Toucan
+Animal name: Tortoise
+Animal name: Trapdoor Spider
+Animal name: Tuatara
+Animal name: Tundra Swan
+Animal name: Tundra Wolf
+Animal name: Turkey Vulture
+Animal name: Turtles
+Animal name: Vampire Bats
+Animal name: Vendace Fish
+Animal name: Vulture
+Animal name: Wallaby
+Animal name: Walrus
+Animal name: Warthog
+Animal name: Wasps
+Animal name: Water Beetle
+Animal name: Waterbuck
+Animal name: Weasel
+Animal name: Weevil Beetle
+Animal name: West African Manatee
+Animal name: West Indian Manatee
+Animal name: Western Lowland Gorillas
+Animal name: Whales
+Animal name: White Bengal Tiger
+Animal name: White Rhino
+Animal name: White Stork Birds
+Animal name: White-clawed Crayfish
+Animal name: Wild Boar
+Animal name: Wild Rabbits
+Animal name: Wildebeest
+Animal name: Willow Ptarmigan
+Animal name: Winter White Russian Hamster
+Animal name: Wolf Eel – Neither Wolves nor Eels, but Wonders of the Deep
+Animal name: Wolf Spider
+Animal name: Wolverine
+Animal name: Wolves
+Animal name: Wombat
+Animal name: Worms
+Animal name: X-Ray Fish
+Animal name: Yacare Caimans
+Animal name: Yak – Gentle Giants Of High Altitudes
+Animal name: Yellow jacket Wasp
+Animal name: Yellow Sac Spider
+Animal name: Yellow-bellied marmot
+Animal name: Yellow-eyed Penguin
+Animal name: Yellowhammer
+Animal name: Zebras

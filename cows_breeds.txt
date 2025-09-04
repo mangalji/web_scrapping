@@ -1,0 +1,472 @@
+cow breed name: Aberdeen Angus
+cow breed name: Abergele
+cow breed name: Abigar
+cow breed name: Abondance
+cow breed name: Abyssinian Shorthorned Zebu
+cow breed name: Aceh
+cow breed name: Achham
+cow breed name: Adamawa
+cow breed name: Adaptaur
+cow breed name: Afar
+cow breed name: Africangus
+cow breed name: Afrikaner
+cow breed name: Agerolese
+cow breed name: Alambadi
+cow breed name: Alatau
+cow breed name: Albanian
+cow breed name: Albera
+cow breed name: Alderney
+cow breed name: Alentejana
+cow breed name: Aleutian wild cattle
+cow breed name: Aliad Dinka
+cow breed name: Alistana-Sanabresa
+cow breed name: Allmogekor
+cow breed name: Alur
+cow breed name: American
+cow breed name: American Angus
+cow breed name: American Beef Friesian
+cow breed name: American Brown Swiss
+cow breed name: American Milking Devon
+cow breed name: American White Park
+cow breed name: Amerifax
+cow breed name: Amrit Mahal
+cow breed name: Amsterdam Island cattle
+cow breed name: Anatolian Black
+cow breed name: Andalusian Black
+cow breed name: Andalusian Blond
+cow breed name: Andalusian Grey
+cow breed name: Angeln
+cow breed name: Angoni
+cow breed name: Ankina
+cow breed name: Ankole
+cow breed name: Ankole-Watusi
+cow breed name: Aracena
+cow breed name: Arado
+cow breed name: Argentine Criollo
+cow breed name: Argentine Friesian
+cow breed name: Armorican
+cow breed name: Arouquesa
+cow breed name: Arsi
+cow breed name: Asturian Mountain
+cow breed name: Asturian Valley
+cow breed name: Aubrac
+cow breed name: Aulie-Ata
+cow breed name: Aure et Saint-Girons
+cow breed name: Australian Braford
+cow breed name: Australian Brangus
+cow breed name: Australian Charbray
+cow breed name: Australian Friesian Sahiwal
+cow breed name: Australian Lowline
+cow breed name: Australian Milking Zebu
+cow breed name: Australian Shorthorn
+cow breed name: Austrian Simmental
+cow breed name: Austrian Yellow
+cow breed name: Avétonou
+cow breed name: Avileña-Negra Ibérica
+cow breed name: Aweil Dinka
+cow breed name: Ayrshire
+cow breed name: Azaouak
+cow breed name: Azebuado
+cow breed name: Azerbaijan Zebu
+cow breed name: Azores
+cow breed name: Bachaur cattle
+cow breed name: Baherie cattle
+cow breed name: Bakosi cattle
+cow breed name: Balancer
+cow breed name: Bali cattle
+cow breed name: Baoule
+cow breed name: Bargur cattle
+cow breed name: Barrosã
+cow breed name: Barzona
+cow breed name: Bazadaise
+cow breed name: Beef Freisian
+cow breed name: Beefalo
+cow breed name: Beefmaker
+cow breed name: Beefmaster
+cow breed name: Begayt
+cow breed name: Belgian Blue
+cow breed name: Belgian Red
+cow breed name: Belgian Red Pied
+cow breed name: Belgian White-and-Red
+cow breed name: Belmont Red
+cow breed name: Belted Galloway
+cow breed name: Bernese
+cow breed name: Berrenda cattle
+cow breed name: Betizu
+cow breed name: Bianca Modenese
+cow breed name: Blaarkop
+cow breed name: Blanca Cacereña
+cow breed name: Blanco Orejinegro BON
+cow breed name: Blonde d'Aquitaine
+cow breed name: Blue Albion
+cow breed name: Blue Grey
+cow breed name: Bohuskulla
+cow breed name: Bonsmara
+cow breed name: Boran
+cow breed name: Boškarin
+cow breed name: Braford
+cow breed name: Brahman
+cow breed name: Brahmousin
+cow breed name: Brangus
+cow breed name: Braunvieh
+cow breed name: Brava
+cow breed name: Bretonne Pie Noir
+cow breed name: British White
+cow breed name: British Friesian
+cow breed name: Brown Carpathian
+cow breed name: Brown Caucasian
+cow breed name: Brown Swiss
+cow breed name: Bue Lingo
+cow breed name: Burlina
+cow breed name: Buša cattle
+cow breed name: Butana cattle
+cow breed name: Bushuyev
+cow breed name: Cachena
+cow breed name: Caldelana
+cow breed name: Camargue
+cow breed name: Campbell Island cattle
+cow breed name: Canadian Speckle Park
+cow breed name: Canadienne
+cow breed name: Canaria
+cow breed name: Canchim
+cow breed name: Caracu
+cow breed name: Cárdena Andaluza
+cow breed name: Carinthian Blondvieh
+cow breed name: Carora
+cow breed name: Charbray
+cow breed name: Charolais
+cow breed name: Chateaubriand
+cow breed name: Chiangus
+cow breed name: Chianina
+cow breed name: Chillingham cattle
+cow breed name: Chinese Black Pied
+cow breed name: Cholistani Cattle
+cow breed name: Cika cattle
+cow breed name: Coloursided White Back
+cow breed name: Commercial
+cow breed name: Corriente
+cow breed name: Corsican cattle
+cow breed name: Costeño con Cuernos
+cow breed name: Crioulo Lageano
+cow breed name: Dajal cattle
+cow breed name: Dangi cattle
+cow breed name: Danish Black-Pied
+cow breed name: Danish Jersey
+cow breed name: Danish Red
+cow breed name: Deep Red cattle
+cow breed name: Deoni
+cow breed name: Devon
+cow breed name: Dexter cattle
+cow breed name: Dhanni
+cow breed name: Doayo cattle
+cow breed name: Doela
+cow breed name: Drakensberger
+cow breed name: Dølafe
+cow breed name: Droughtmaster
+cow breed name: Dulong'
+cow breed name: Dutch Friesian
+cow breed name: Dwarf Lulu
+cow breed name: East Anatolian Red
+cow breed name: Eastern Finncattle
+cow breed name: Eastern Red Polled
+cow breed name: Enderby Island cattle
+cow breed name: English Longhorn
+cow breed name: Ennstaler Bergscheck
+cow breed name: Estonian Holstein
+cow breed name: Estonian Native
+cow breed name: Estonian Red cattle
+cow breed name: Évolène cattle
+cow breed name: Finnish Ayrshire
+cow breed name: Finncattle
+cow breed name: Finnish Holstein-Friesian
+cow breed name: Fjäll
+cow breed name: Fleckvieh
+cow breed name: Florida Cracker cattle
+cow breed name: Fogera
+cow breed name: French Simmental
+cow breed name: Fribourgeoise
+cow breed name: Friesian Red and White
+cow breed name: Fulani Sudanese
+cow breed name: Galician Blond
+cow breed name: Galloway cattle
+cow breed name: Gangatiri
+cow breed name: Gaolao
+cow breed name: Garvonesa
+cow breed name: Gascon cattle
+cow breed name: Gelbvieh
+cow breed name: Georgian Mountain cattle
+cow breed name: German Angus
+cow breed name: German Black Pied cattle
+cow breed name: German Black Pied Dairy
+cow breed name: German Red Pied
+cow breed name: Gir
+cow breed name: Glamorgan cattle
+cow breed name: Glan cattle
+cow breed name: Gloucester
+cow breed name: Gobra
+cow breed name: Greek Shorthorn
+cow breed name: Greek Steppe
+cow breed name: Greyman cattle
+cow breed name: Gudali
+cow breed name: Guernsey cattle
+cow breed name: Guzerá
+cow breed name: Hallikar[4]
+cow breed name: Hanwoo
+cow breed name: Hariana cattle
+cow breed name: Hartón del Valle
+cow breed name: Harzer Rotvieh
+cow breed name: Hays Converter
+cow breed name: Heck cattle
+cow breed name: Hereford
+cow breed name: Herens
+cow breed name: Highland cattle
+cow breed name: Hinterwald
+cow breed name: Holando-Argentino
+cow breed name: Holstein Friesian cattle
+cow breed name: Horro
+cow breed name: Huáng Cattle
+cow breed name: Hungarian Grey
+cow breed name: Iberian cattle
+cow breed name: Icelandic
+cow breed name: Illawarra cattle
+cow breed name: Improved Red and White
+cow breed name: Indo-Brazilian
+cow breed name: Irish Moiled
+cow breed name: Israeli Holstein
+cow breed name: Israeli Red
+cow breed name: Istoben cattle
+cow breed name: Istrian cattle
+cow breed name: Jamaica Black
+cow breed name: Jamaica Hope
+cow breed name: Jamaica Red
+cow breed name: Japanese Black
+cow breed name: Japanese Brown
+cow breed name: Japanese Polled
+cow breed name: Japanese Shorthorn
+cow breed name: Jarmelista
+cow breed name: Javari cattle
+cow breed name: Jersey cattle
+cow breed name: Jutland cattle
+cow breed name: Kabin Buri cattle
+cow breed name: Kalmyk cattle
+cow breed name: Kangayam
+cow breed name: Kankrej
+cow breed name: Kamphaeng Saen cattle
+cow breed name: Karan Swiss
+cow breed name: Kasaragod Dwarf cattle
+cow breed name: Kathiawadi
+cow breed name: Kazakh Whiteheaded
+cow breed name: Kenana cattle
+cow breed name: Kenkatha cattle
+cow breed name: Kerry cattle
+cow breed name: Kherigarh
+cow breed name: Khillari cattle
+cow breed name: Kholomogory
+cow breed name: Korat Wagyu
+cow breed name: Kostroma cattle
+cow breed name: Krishna Valley cattle
+cow breed name: Kuri
+cow breed name: Kurgan cattle
+cow breed name: La Reina cattle
+cow breed name: Lakenvelder cattle
+cow breed name: Lampurger
+cow breed name: Latvian Blue
+cow breed name: Latvian Brown
+cow breed name: Latvian Danish Red
+cow breed name: Lebedyn
+cow breed name: Limia cattle
+cow breed name: Limousin
+cow breed name: Limpurger
+cow breed name: Lincoln Red
+cow breed name: Lynch Lineback
+cow breed name: Lithuanian Black-and-White
+cow breed name: Lithuanian Light Grey
+cow breed name: Lithuanian Red
+cow breed name: Lithuanian White-Backed
+cow breed name: Lohani cattle
+cow breed name: Lourdais
+cow breed name: Lucerna cattle
+cow breed name: Luing
+cow breed name: Madagascar Zebu
+cow breed name: Madura
+cow breed name: Maine-Anjou
+cow breed name: Malnad Gidda
+cow breed name: Malvi
+cow breed name: Mandalong Special
+cow breed name: Mantequera Leonesa
+cow breed name: Maraîchine
+cow breed name: Maramureş Brown
+cow breed name: Marchigiana
+cow breed name: Maremmana
+cow breed name: Marinhoa
+cow breed name: Maronesa
+cow breed name: Masai
+cow breed name: Mashona
+cow breed name: Menorquina
+cow breed name: Mertolenga
+cow breed name: Meuse-Rhine-Issel
+cow breed name: Mewati
+cow breed name: Milking Shorthorn
+cow breed name: Minhota
+cow breed name: Mirandesa
+cow breed name: Mocăniţă
+cow breed name: Mollie
+cow breed name: Monchina
+cow breed name: Mongolian
+cow breed name: Montbéliarde
+cow breed name: Morucha
+cow breed name: Munshiganj Cattle
+cow breed name: Muturu
+cow breed name: Murboden
+cow breed name: Murciana-Levantina
+cow breed name: Murnau-Werdenfels
+cow breed name: Murray Grey
+cow breed name: Nagori
+cow breed name: N'Dama
+cow breed name: Negra Andaluza
+cow breed name: Nelore
+cow breed name: Nguni
+cow breed name: Nimari
+cow breed name: Normande
+cow breed name: North Bengal Grey
+cow breed name: Northern Finncattle
+cow breed name: Northern Shorthorn
+cow breed name: Norwegian Red
+cow breed name: Ongole
+cow breed name: Original Simmental
+cow breed name: Pajuna
+cow breed name: Palmera
+cow breed name: Pantaneiro
+cow breed name: Parda Alpina
+cow breed name: Parthenaise
+cow breed name: Pasiega
+cow breed name: Pembroke
+cow breed name: Philippine Native
+cow breed name: Pie Rouge des Plaines
+cow breed name: Piedmontese cattle
+cow breed name: Pineywoods
+cow breed name: Pinzgauer
+cow breed name: Pirenaica
+cow breed name: Podolac
+cow breed name: Podolica
+cow breed name: Polish Black-and-White
+cow breed name: Polish Red
+cow breed name: Polled Hereford
+cow breed name: Poll Shorthorn
+cow breed name: Polled Shorthorn
+cow breed name: Ponwar
+cow breed name: Preta
+cow breed name: Prim'Holstein[note 1]
+cow breed name: Punganur
+cow breed name: Pulikulam
+cow breed name: Pustertaler Sprinzen
+cow breed name: Qinchaun
+cow breed name: Queensland Miniature Boran
+cow breed name: Ramo Grande
+cow breed name: Randall
+cow breed name: Raramuri Criollo
+cow breed name: Rathi
+cow breed name: Rätisches Grauvieh
+cow breed name: Raya
+cow breed name: Red Angus
+cow breed name: Red Brangus
+cow breed name: Red Chittagong
+cow breed name: Red Fulani
+cow breed name: Red Gorbatov
+cow breed name: Red Holstein
+cow breed name: Red Kandhari
+cow breed name: Red Mingrelian
+cow breed name: Red Poll
+cow breed name: Red Polled Østland
+cow breed name: Red Sindhi
+cow breed name: Retinta
+cow breed name: Riggit Galloway
+cow breed name: Ringamåla
+cow breed name: Rohjan
+cow breed name: Romagnola
+cow breed name: Romanian Bălţata
+cow breed name: Romanian Steppe Gray
+cow breed name: Romosinuano
+cow breed name: Russian Black Pied
+cow breed name: RX3
+cow breed name: Sahiwal
+cow breed name: Sibi Bhagnari
+cow breed name: Salers
+cow breed name: Salorn
+cow breed name: Sanga
+cow breed name: Sanhe
+cow breed name: Santa Cruz
+cow breed name: Santa Gertrudis
+cow breed name: Sayaguesa
+cow breed name: Schwyz
+cow breed name: Selembu
+cow breed name: Senepol
+cow breed name: Serbian Pied
+cow breed name: Serbian Steppe
+cow breed name: Sheko
+cow breed name: Shetland
+cow breed name: Shorthorn
+cow breed name: Siboney de Cuba
+cow breed name: Simbrah
+cow breed name: Simford
+cow breed name: Simmental
+cow breed name: Siri
+cow breed name: South Devon
+cow breed name: Spanish Fighting Bull
+cow breed name: Speckle Park
+cow breed name: Square Meater
+cow breed name: Stabiliser
+cow breed name: Sussex
+cow breed name: Swedish Friesian
+cow breed name: Swedish Polled
+cow breed name: Swedish Red Pied
+cow breed name: Swedish Red Polled
+cow breed name: Swedish Red-and-White
+cow breed name: Tabapuã
+cow breed name: Tarentaise
+cow breed name: Tasmanian Grey
+cow breed name: Telemark
+cow breed name: Texas Longhorn
+cow breed name: Texon
+cow breed name: Thai Black
+cow breed name: Thai Fighting Bull
+cow breed name: Thai Friesian
+cow breed name: Thai Milking Zebu
+cow breed name: Tharparkar
+cow breed name: Tswana
+cow breed name: Tudanca
+cow breed name: Tuli
+cow breed name: Tulim
+cow breed name: Turkish Grey Steppe
+cow breed name: Tux-Zillertal
+cow breed name: Tyrol Grey
+cow breed name: Umblachery
+cow breed name: Ukrainian Grey
+cow breed name: Valdostana Castana
+cow breed name: Valdostana Pezzata Nera
+cow breed name: Valdostana Pezzata Rossa
+cow breed name: Väneko
+cow breed name: Vaynol
+cow breed name: Vechur[8]
+cow breed name: Vestland Fjord
+cow breed name: Vestland Red Polled
+cow breed name: Vianesa
+cow breed name: Volinian Beef
+cow breed name: Vorderwald
+cow breed name: Vosgienne
+cow breed name: Waguli
+cow breed name: Wangus
+cow breed name: Welsh Black
+cow breed name: Western Finncattle
+cow breed name: White Cáceres
+cow breed name: White Fulani
+cow breed name: White Lamphun
+cow breed name: White Park
+cow breed name: Whitebred Shorthorn
+cow breed name: Xinjiang Brown
+cow breed name: Yakutian
+cow breed name: Yanbian
+cow breed name: Yanhuang
+cow breed name: Yurino
+cow breed name: Żubroń
+cow breed name: Zebu

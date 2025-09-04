@@ -1,0 +1,20 @@
+bird breed name: African Grey Parrot, size: Medium, slug: african-grey-parrot
+bird breed name: Amazon Parrot, size: Medium, slug: amazon-parrot
+bird breed name: Blue and Gold Macaw, size: Large, slug: blue-and-gold-macaw
+bird breed name: Budgerigar, size: Small, slug: budgerigar
+bird breed name: Call Duck, size: Small, slug: call-duck
+bird breed name: Cockatiel, size: Small, slug: cockatiel
+bird breed name: Conure, size: Medium, slug: conure
+bird breed name: Dove, size: Medium, slug: dove
+bird breed name: Goffin’s Cockatoo, size: Medium, slug: goffins-cockatoo
+bird breed name: Gouldian Finch, size: Small, slug: gouldian-finch
+bird breed name: Green-Winged Macaw, size: Large, slug: green-winged-macaw
+bird breed name: Hyacinth macaw, size: Large, slug: hyacinth-macaw
+bird breed name: Lovebird, size: Small, slug: lovebird
+bird breed name: Mynah, size: Medium, slug: mynah
+bird breed name: Palm Cockatoo, size: Large, slug: palm-cockatoo
+bird breed name: Pigeon, size: Small, slug: pigeon
+bird breed name: Rainbow Lorikeet, size: Medium, slug: rainbow-lorikeet
+bird breed name: Red Lory, size: Medium, slug: red-lory
+bird breed name: Umbrella cockatoo, size: Large, slug: umbrella-cockatoo
+bird breed name: Zebra Finch, size: Small, slug: zebra-finch

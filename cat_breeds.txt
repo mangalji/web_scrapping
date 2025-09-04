@@ -1,0 +1,114 @@
+cat breed name:Bambino, size:Small, slug:bambino
+cat breed name:Toybob, size:Small, slug:toybob
+cat breed name:Rusty-Spotted Cat, size:Small, slug:rusty-spotted-cat
+cat breed name:Singapura, size:Small, slug:singapura
+cat breed name:Khao Manee, size:Medium, slug:khao-manee
+cat breed name:Asian Semi-longhair, size:Medium, slug:asian-semi-longhair
+cat breed name:Colorpoint Shorthair, size:Medium, slug:colorpoint-shorthair
+cat breed name:Cyprus, size:Medium, slug:cyprus
+cat breed name:Turkish Angora, size:Medium, slug:turkish-angora
+cat breed name:Japanese Bobtail, size:Medium, slug:japanese-bobtail
+cat breed name:Ukrainian Levkoy, size:Medium, slug:ukrainian-levkoy
+cat breed name:Suphalak, size:Medium, slug:suphalak
+cat breed name:German Rex, size:Medium, slug:german-rex
+cat breed name:Nebelung, size:Medium, slug:nebelung
+cat breed name:Australian Mist, size:Medium, slug:australian-mist
+cat breed name:Donskoy, size:Medium, slug:donskoy
+cat breed name:Russian White Cat, size:Medium, slug:russian-white-cat
+cat breed name:Javanese, size:Medium, slug:javanese
+cat breed name:Toyger, size:Medium, slug:toyger
+cat breed name:Aegean, size:Medium, slug:aegean
+cat breed name:Arabian Mau, size:Medium, slug:arabian-mau
+cat breed name:York Chocolate, size:Medium, slug:york-chocolate
+cat breed name:Foldex, size:Medium, slug:foldex
+cat breed name:Ocicat, size:Medium, slug:ocicat
+cat breed name:American Curl, size:Medium, slug:american-curl
+cat breed name:Devon Rex, size:Medium, slug:devon-rex
+cat breed name:Persian Cat, size:Medium, slug:persian-cat
+cat breed name:Himalayan Cat, size:Medium, slug:himalayan-cat
+cat breed name:Birman Cat, size:Medium, slug:birman-cat
+cat breed name:Tonkinese Cat, size:Medium, slug:tonkinese-cat
+cat breed name:Somali, size:Medium, slug:somali
+cat breed name:LaPerm, size:Medium, slug:laperm
+cat breed name:British Longhair, size:Medium, slug:british-longhair
+cat breed name:Scottish fold, size:Medium, slug:scottish-fold
+cat breed name:Abyssinian, size:Medium, slug:abyssinian
+cat breed name:Oriental Shorthair, size:Medium, slug:oriental-shorthair
+cat breed name:Bombay Cat, size:Medium, slug:bombay-cat
+cat breed name:Russian Blue, size:Medium, slug:russian-blue
+cat breed name:Manx, size:Medium, slug:manx
+cat breed name:Egyptian Mau, size:Medium, slug:egyptian-mau
+cat breed name:Brazilian Shorthair, size:Medium, slug:brazilian-shorthair
+cat breed name:Dragon Li, size:Medium, slug:dragon-li
+cat breed name:European Shorthair, size:Medium, slug:european-shorthair
+cat breed name:Sphynx Cat, size:Medium, slug:sphynx-cat
+cat breed name:Havana Brown, size:Medium, slug:havana-brown
+cat breed name:Chartreux Cat, size:Medium, slug:chartreux-cat
+cat breed name:Javanese or Colorpoint Longhair, size:Medium, slug:javanese-or-colorpoint-longhair
+cat breed name:British Shorthair Cat, size:Medium, slug:british-shorthair-cat
+cat breed name:Chantilly Tiffany, size:Medium, slug:chantilly-tiffany
+cat breed name:American Shorthair, size:Medium, slug:american-shorthair
+cat breed name:Exotic Shorthair, size:Medium, slug:exotic-shorthair
+cat breed name:Burmilla, size:Medium, slug:burmilla
+cat breed name:Burmese Cat, size:Medium, slug:burmese-cat
+cat breed name:Korat Cat, size:Medium, slug:korat-cat
+cat breed name:American Wirehair, size:Medium, slug:american-wirehair
+cat breed name:Balinese Cat, size:Medium, slug:balinese-cat
+cat breed name:Cornish Rex, size:Medium, slug:cornish-rex
+cat breed name:Snowshoe, size:Medium, slug:snowshoe
+cat breed name:California Spangled, size:Medium, slug:california-spangled
+cat breed name:Khao Manee, size:Medium, slug:khao-manee
+cat breed name:Asian Semi-longhair, size:Medium, slug:asian-semi-longhair
+cat breed name:Colorpoint Shorthair, size:Medium, slug:colorpoint-shorthair
+cat breed name:Cyprus, size:Medium, slug:cyprus
+cat breed name:Turkish Angora, size:Medium, slug:turkish-angora
+cat breed name:Japanese Bobtail, size:Medium, slug:japanese-bobtail
+cat breed name:Ukrainian Levkoy, size:Medium, slug:ukrainian-levkoy
+cat breed name:Suphalak, size:Medium, slug:suphalak
+cat breed name:German Rex, size:Medium, slug:german-rex
+cat breed name:Nebelung, size:Medium, slug:nebelung
+cat breed name:Australian Mist, size:Medium, slug:australian-mist
+cat breed name:Donskoy, size:Medium, slug:donskoy
+cat breed name:Russian White Cat, size:Medium, slug:russian-white-cat
+cat breed name:Javanese, size:Medium, slug:javanese
+cat breed name:Toyger, size:Medium, slug:toyger
+cat breed name:Aegean, size:Medium, slug:aegean
+cat breed name:Arabian Mau, size:Medium, slug:arabian-mau
+cat breed name:York Chocolate, size:Medium, slug:york-chocolate
+cat breed name:Foldex, size:Medium, slug:foldex
+cat breed name:Ocicat, size:Medium, slug:ocicat
+cat breed name:American Curl, size:Medium, slug:american-curl
+cat breed name:Devon Rex, size:Medium, slug:devon-rex
+cat breed name:Persian Cat, size:Medium, slug:persian-cat
+cat breed name:Himalayan Cat, size:Medium, slug:himalayan-cat
+cat breed name:Birman Cat, size:Medium, slug:birman-cat
+cat breed name:Tonkinese Cat, size:Medium, slug:tonkinese-cat
+cat breed name:Somali, size:Medium, slug:somali
+cat breed name:LaPerm, size:Medium, slug:laperm
+cat breed name:British Longhair, size:Medium, slug:british-longhair
+cat breed name:Scottish fold, size:Medium, slug:scottish-fold
+cat breed name:Abyssinian, size:Medium, slug:abyssinian
+cat breed name:Oriental Shorthair, size:Medium, slug:oriental-shorthair
+cat breed name:Bombay Cat, size:Medium, slug:bombay-cat
+cat breed name:Russian Blue, size:Medium, slug:russian-blue
+cat breed name:Manx, size:Medium, slug:manx
+cat breed name:Egyptian Mau, size:Medium, slug:egyptian-mau
+cat breed name:Brazilian Shorthair, size:Medium, slug:brazilian-shorthair
+cat breed name:Dragon Li, size:Medium, slug:dragon-li
+cat breed name:European Shorthair, size:Medium, slug:european-shorthair
+cat breed name:Sphynx Cat, size:Medium, slug:sphynx-cat
+cat breed name:Havana Brown, size:Medium, slug:havana-brown
+cat breed name:Chartreux Cat, size:Medium, slug:chartreux-cat
+cat breed name:Javanese or Colorpoint Longhair, size:Medium, slug:javanese-or-colorpoint-longhair
+cat breed name:British Shorthair Cat, size:Medium, slug:british-shorthair-cat
+cat breed name:Chantilly Tiffany, size:Medium, slug:chantilly-tiffany
+cat breed name:American Shorthair, size:Medium, slug:american-shorthair
+cat breed name:Exotic Shorthair, size:Medium, slug:exotic-shorthair
+cat breed name:Burmilla, size:Medium, slug:burmilla
+cat breed name:Burmese Cat, size:Medium, slug:burmese-cat
+cat breed name:Korat Cat, size:Medium, slug:korat-cat
+cat breed name:American Wirehair, size:Medium, slug:american-wirehair
+cat breed name:Balinese Cat, size:Medium, slug:balinese-cat
+cat breed name:Cornish Rex, size:Medium, slug:cornish-rex
+cat breed name:Snowshoe, size:Medium, slug:snowshoe
+cat breed name:California Spangled, size:Medium, slug:california-spangled

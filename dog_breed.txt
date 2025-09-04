@@ -1,0 +1,240 @@
+dog breed name:Shih - Tzu, size:Small, slug:shih-tzu
+dog breed name:Beagle, size:Small, slug:beagle
+dog breed name:Poodle, size:Small, slug:poodle
+dog breed name:Pomeranian, size:Small, slug:pomeranian
+dog breed name:Chihuahua, size:Small, slug:chihuahua
+dog breed name:Jack Russel Terrier, size:Small, slug:jack-russel-terrier
+dog breed name:French Bulldog, size:Small, slug:french-bulldog
+dog breed name:Pug, size:Small, slug:pug
+dog breed name:Miniature Pinscher, size:Small, slug:miniature-pinscher
+dog breed name:Dachshund, size:Small, slug:dachshund
+dog breed name:Bichon Frise, size:Small, slug:bichon-frise
+dog breed name:Maltese, size:Small, slug:maltese
+dog breed name:Lhasa Apso, size:Small, slug:lhasa-apso
+dog breed name:Yorkshire Terrier, size:Small, slug:yorkshire-terrier
+dog breed name:Affenpinscher, size:Small, slug:affenpinscher
+dog breed name:Maltipoo, size:Small, slug:maltipoo
+dog breed name:Welsh Corgi, size:Small, slug:welsh-corgi
+dog breed name:Miniature Schnauzer, size:Small, slug:miniature-schnauzer
+dog breed name:Cavalier King Charles Spaniel, size:Small, slug:cavalier-king-charles-spaniel
+dog breed name:Indian Spitz, size:Small, slug:indian-spitz
+dog breed name:American Eskimo Dog, size:Small, slug:american-eskimo-dog
+dog breed name:Cockapoo, size:Small, slug:cockapoo
+dog breed name:Shih-Poo, size:Small, slug:shih-poo
+dog breed name:Japanese Spitz, size:Small, slug:japanese-spitz
+dog breed name:Biewer Terrier, size:Small, slug:biewer-terrier
+dog breed name:Scottish Terrier, size:Small, slug:scottish-terrier
+dog breed name:Papillon, size:Small, slug:papillon
+dog breed name:Patterdale Terrier, size:Small, slug:patterdale-terrier
+dog breed name:Norfolk Terrier, size:Small, slug:norfolk-terrier
+dog breed name:Norwich Terrier, size:Small, slug:norwich-terrier
+dog breed name:Manchester Terrier, size:Small, slug:manchester-terrier
+dog breed name:Havanese, size:Small, slug:havanese
+dog breed name:Lowchen, size:Small, slug:lowchen
+dog breed name:Toy Fox Terrier, size:Small, slug:toy-fox-terrier
+dog breed name:Brussels Griffon, size:Small, slug:brussels-griffon
+dog breed name:Morkie, size:Small, slug:morkie
+dog breed name:Skye Terrier, size:Small, slug:skye-terrier
+dog breed name:Portuguese Podengo Pequeno, size:Small, slug:portuguese-podengo-pequeno
+dog breed name:Drever, size:Small, slug:drever
+dog breed name:Silky Terrier, size:Small, slug:silky-terrier
+dog breed name:Cavapoo, size:Small, slug:cavapoo
+dog breed name:Schipperke, size:Small, slug:schipperke
+dog breed name:Danish-Swedish Farmdog, size:Small, slug:danish-swedish-farmdog
+dog breed name:Chinese Crested, size:Small, slug:chinese-crested
+dog breed name:Lakeland Terrier, size:Small, slug:lakeland-terrier
+dog breed name:Yorkipoo, size:Small, slug:yorkipoo
+dog breed name:Chiweenie, size:Small, slug:chiweenie
+dog breed name:Lancashire Heeler, size:Small, slug:lancashire-heeler
+dog breed name:West Highland White Terrier, size:Small, slug:west-highland-white-terrier
+dog breed name:Japanese Chin, size:Small, slug:japanese-chin
+dog breed name:Pekingese, size:Small, slug:pekingese
+dog breed name:Dandie Dinmont Terrier, size:Small, slug:dandie-dinmont-terrier
+dog breed name:Italian Greyhound, size:Small, slug:italian-greyhound
+dog breed name:English Toy Spaniel, size:Small, slug:english-toy-spaniel
+dog breed name:Russian Toy, size:Small, slug:russian-toy
+dog breed name:Cesky Terrier, size:Small, slug:cesky-terrier
+dog breed name:Shiba Inu, size:Small, slug:shiba-inu
+dog breed name:Siberian Husky, size:Medium, slug:siberian-husky
+dog breed name:Boxer, size:Medium, slug:boxer
+dog breed name:Belgian Malinois, size:Medium, slug:belgian-malinois
+dog breed name:American Bully, size:Medium, slug:american-bully
+dog breed name:Chow Chow, size:Medium, slug:chow-chow
+dog breed name:American Pit Bull Terrier, size:Medium, slug:american-pit-bull-terrier
+dog breed name:Cocker Spaniel, size:Medium, slug:cocker-spaniel
+dog breed name:Belgian Shepherd, size:Medium, slug:belgian-shepherd
+dog breed name:English Cocker Spaniel, size:Medium, slug:english-cocker-spaniel
+dog breed name:Kombai or Combai Dog, size:Medium, slug:kombai-or-combai-dog
+dog breed name:Dalmatian, size:Medium, slug:dalmatian
+dog breed name:Bulldog, size:Medium, slug:bulldog
+dog breed name:Saluki, size:Medium, slug:saluki
+dog breed name:Puli, size:Medium, slug:puli
+dog breed name:Rajapalayam, size:Medium, slug:rajapalayam
+dog breed name:Fox Terrier, size:Medium, slug:fox-terrier
+dog breed name:American Cocker Spaniel, size:Medium, slug:american-cocker-spaniel
+dog breed name:German Pinscher, size:Medium, slug:german-pinscher
+dog breed name:Samoyed, size:Medium, slug:samoyed
+dog breed name:American Staffordshire Terrier, size:Medium, slug:american-staffordshire-terrier
+dog breed name:Border Collie, size:Medium, slug:border-collie
+dog breed name:Basset Hound, size:Medium, slug:basset-hound
+dog breed name:Bull Terrier, size:Medium, slug:bull-terrier
+dog breed name:Pointer, size:Medium, slug:pointer
+dog breed name:Portuguese Water Dog, size:Medium, slug:portuguese-water-dog
+dog breed name:Shetland Sheepdog, size:Medium, slug:shetland-sheepdog
+dog breed name:Whippet, size:Medium, slug:whippet
+dog breed name:German Spitz, size:Medium, slug:german-spitz
+dog breed name:Wirehaired Pointing Griffon, size:Medium, slug:wirehaired-pointing-griffon
+dog breed name:Stabyhoun, size:Medium, slug:stabyhoun
+dog breed name:Kooikerhondje, size:Medium, slug:kooikerhondje
+dog breed name:Norwegian Buhund, size:Medium, slug:norwegian-buhund
+dog breed name:Kai Ken, size:Medium, slug:kai-ken
+dog breed name:Karelian Bear Dog, size:Medium, slug:karelian-bear-dog
+dog breed name:Pyrenean Shepherd, size:Medium, slug:pyrenean-shepherd
+dog breed name:Jagdterrier, size:Medium, slug:jagdterrier
+dog breed name:Hanoverian Scenthound, size:Medium, slug:hanoverian-scenthound
+dog breed name:Pudelpointer, size:Medium, slug:pudelpointer
+dog breed name:Slovensky Kopov, size:Medium, slug:slovensky-kopov
+dog breed name:Segugio Italiano, size:Medium, slug:segugio-italiano
+dog breed name:Norwegian Elkhound, size:Medium, slug:norwegian-elkhound
+dog breed name:Bearded Collie, size:Medium, slug:bearded-collie
+dog breed name:Welsh Terrier, size:Medium, slug:welsh-terrier
+dog breed name:Pharaoh Hound, size:Medium, slug:pharaoh-hound
+dog breed name:Petit Basset Griffon Vendéen, size:Medium, slug:petit-basset-griffon-venden
+dog breed name:Nova Scotia Duck Tolling Retriever, size:Medium, slug:nova-scotia-duck-tolling-retriever
+dog breed name:Glen of Imaal Terrier, size:Medium, slug:glen-of-imaal-terrier
+dog breed name:Lapponian Herder, size:Medium, slug:lapponian-herder
+dog breed name:Norwegian Lundehund, size:Medium, slug:norwegian-lundehund
+dog breed name:Redbone Coonhound, size:Medium, slug:redbone-coonhound
+dog breed name:Rat Terrier, size:Medium, slug:rat-terrier
+dog breed name:Ibizan Hound, size:Medium, slug:ibizan-hound
+dog breed name:Indian Pariah Dog, size:Medium, slug:indian-pariah-dog
+dog breed name:Deutscher Wachtelhund, size:Medium, slug:deutscher-wachtelhund
+dog breed name:Canaan Dog, size:Medium, slug:canaan-dog
+dog breed name:Australian Cattle Dog, size:Medium, slug:australian-cattle-dog
+dog breed name:Dutch Shepherd, size:Medium, slug:dutch-shepherd
+dog breed name:Shikoku, size:Medium, slug:shikoku
+dog breed name:Basenji, size:Medium, slug:basenji
+dog breed name:Pandikona, size:Medium, slug:pandikona
+dog breed name:Brittany, size:Medium, slug:brittany
+dog breed name:Barbet, size:Medium, slug:barbet
+dog breed name:Carolina Dog, size:Medium, slug:carolina-dog
+dog breed name:Polish Lowland Sheepdog, size:Medium, slug:polish-lowland-sheepdog
+dog breed name:Irish Red And White Setter, size:Medium, slug:irish-red-and-white-setter
+dog breed name:Harrier, size:Medium, slug:harrier
+dog breed name:Tibetan Terrier, size:Medium, slug:tibetan-terrier
+dog breed name:Field Spaniel, size:Medium, slug:field-spaniel
+dog breed name:Finnish Spitz, size:Medium, slug:finnish-spitz
+dog breed name:Korean Jindo Dog, size:Medium, slug:korean-jindo-dog
+dog breed name:Xoloitzcuintli, size:Medium, slug:xoloitzcuintli
+dog breed name:Labradoodle, size:Medium, slug:labradoodle
+dog breed name:Kromfohrlander, size:Medium, slug:kromfohrlander
+dog breed name:Schnoodle, size:Medium, slug:schnoodle
+dog breed name:Cavachon, size:Medium, slug:cavachon
+dog breed name:Swedish Vallhund, size:Medium, slug:swedish-vallhund
+dog breed name:Chug, size:Medium, slug:chug
+dog breed name:Irish Terrier, size:Medium, slug:irish-terrier
+dog breed name:Eurasier, size:Medium, slug:eurasier
+dog breed name:Taiwan Dog, size:Medium, slug:taiwan-dog
+dog breed name:Soft Coated Wheaten Terrier, size:Medium, slug:soft-coated-wheaten-terrier
+dog breed name:Swedish Lapphund, size:Medium, slug:swedish-lapphund
+dog breed name:Chinese Shar-Pei, size:Medium, slug:chinese-shar-pei
+dog breed name:Vizsla, size:Medium, slug:vizsla
+dog breed name:Transylvanian Hound, size:Medium, slug:transylvanian-hound
+dog breed name:Yakutian Laika, size:Medium, slug:yakutian-laika
+dog breed name:Working Kelpie, size:Medium, slug:working-kelpie
+dog breed name:Keeshond, size:Medium, slug:keeshond
+dog breed name:Finnish Lapphund, size:Medium, slug:finnish-lapphund
+dog breed name:Kerry Blue Terrier, size:Medium, slug:kerry-blue-terrier
+dog breed name:Icelandic Sheepdog, size:Medium, slug:icelandic-sheepdog
+dog breed name:French Spaniel, size:Medium, slug:french-spaniel
+dog breed name:Hokkaido, size:Medium, slug:hokkaido
+dog breed name:English Springer Spaniel, size:Medium, slug:english-springer-spaniel
+dog breed name:Lagotto Romagnolo, size:Medium, slug:lagotto-romagnolo
+dog breed name:Welsh Springer Spaniel, size:Medium, slug:welsh-springer-spaniel
+dog breed name:Mountain Cur, size:Medium, slug:mountain-cur
+dog breed name:Croatian Sheepdog, size:Medium, slug:croatian-sheepdog
+dog breed name:Spanish Water Dog, size:Medium, slug:spanish-water-dog
+dog breed name:Kishu Ken, size:Medium, slug:kishu-ken
+dog breed name:Thai Ridgeback, size:Medium, slug:thai-ridgeback
+dog breed name:Sussex Spaniel, size:Medium, slug:sussex-spaniel
+dog breed name:Puggle, size:Medium, slug:puggle
+dog breed name:Silken Windhound, size:Medium, slug:silken-windhound
+dog breed name:Drentsche Patrijshond, size:Medium, slug:drentsche-patrijshond
+dog breed name:Portuguese Pointer, size:Medium, slug:portuguese-pointer
+dog breed name:Spinone Italiano, size:Medium, slug:spinone-italiano
+dog breed name:Treeing Walker Coonhound, size:Medium, slug:treeing-walker-coonhound
+dog breed name:Aussiedoodle, size:Medium, slug:aussiedoodle
+dog breed name:Portuguese Sheepdog, size:Medium, slug:portuguese-sheepdog
+dog breed name:Plott Hound, size:Medium, slug:plott-hound
+dog breed name:Pomsky, size:Medium, slug:pomsky
+dog breed name:Australian Kelpie, size:Medium, slug:australian-kelpie
+dog breed name:Entlebucher Mountain Dog, size:Medium, slug:entlebucher-mountain-dog
+dog breed name:Labrador Retriever, size:Large, slug:labrador-retriever
+dog breed name:German Shepherd, size:Large, slug:german-shepherd
+dog breed name:Golden Retriever, size:Large, slug:golden-retriever
+dog breed name:Rottweiler, size:Large, slug:rottweiler
+dog breed name:Doberman Pinscher, size:Large, slug:doberman-pinscher
+dog breed name:Cane Corso, size:Large, slug:cane-corso
+dog breed name:Mudhol hound, size:Large, slug:mudhol-hound
+dog breed name:Akita, size:Large, slug:akita
+dog breed name:Weimaraner, size:Large, slug:weimaraner
+dog breed name:Alaskan Malamute, size:Large, slug:alaskan-malamute
+dog breed name:Chippiparai, size:Large, slug:chippiparai
+dog breed name:American Bulldog, size:Large, slug:american-bulldog
+dog breed name:Afghan Hound, size:Large, slug:afghan-hound
+dog breed name:Greyhound, size:Large, slug:greyhound
+dog breed name:German Longhaired Pointer, size:Large, slug:german-longhaired-pointer
+dog breed name:Czechoslovakian Vlcak, size:Large, slug:czechoslovakian-vlcak
+dog breed name:Goldendoodle, size:Large, slug:goldendoodle
+dog breed name:German Shorthaired Pointer, size:Large, slug:german-shorthaired-pointer
+dog breed name:Goldador, size:Large, slug:goldador
+dog breed name:Sloughi, size:Large, slug:sloughi
+dog breed name:Old English Sheepdog, size:Large, slug:old-english-sheepdog
+dog breed name:Maremma Sheepdog, size:Large, slug:maremma-sheepdog
+dog breed name:Perro de Presa Canario, size:Large, slug:perro-de-presa-canario
+dog breed name:Estrela Mountain Dog, size:Large, slug:estrela-mountain-dog
+dog breed name:Slovensky Cuvac, size:Large, slug:slovensky-cuvac
+dog breed name:Bernedoodle, size:Large, slug:bernedoodle
+dog breed name:Azawakh, size:Large, slug:azawakh
+dog breed name:Dogue de Bordeaux, size:Large, slug:dogue-de-bordeaux
+dog breed name:Chesapeake Bay Retriever, size:Large, slug:chesapeake-bay-retriever
+dog breed name:English Foxhound, size:Large, slug:english-foxhound
+dog breed name:Great Pyrenees, size:Large, slug:great-pyrenees
+dog breed name:Hovawart, size:Large, slug:hovawart
+dog breed name:English Setter, size:Large, slug:english-setter
+dog breed name:German Wirehaired Pointer, size:Large, slug:german-wirehaired-pointer
+dog breed name:Fila Brasileiro, size:Large, slug:fila-brasileiro
+dog breed name:Sarplaninac, size:Large, slug:sarplaninac
+dog breed name:Irish Setter, size:Large, slug:irish-setter
+dog breed name:Rhodesian Ridgeback, size:Large, slug:rhodesian-ridgeback
+dog breed name:Irish Water Spaniel, size:Large, slug:irish-water-spaniel
+dog breed name:Shiloh Shepherd, size:Large, slug:shiloh-shepherd
+dog breed name:Tornjak, size:Large, slug:tornjak
+dog breed name:Catahoula Leopard Dog, size:Large, slug:catahoula-leopard-dog
+dog breed name:Great Dane, size:Giant, slug:great-dane
+dog breed name:Dogo Argentino, size:Giant, slug:dogo-argentino
+dog breed name:Saint Bernard, size:Giant, slug:saint-bernard
+dog breed name:Bully Kutta, size:Giant, slug:bully-kutta
+dog breed name:Newfoundland, size:Giant, slug:newfoundland
+dog breed name:French Mastiff, size:Giant, slug:french-mastiff
+dog breed name:Akbash, size:Giant, slug:akbash
+dog breed name:Bernese Mountain Dog, size:Giant, slug:bernese-mountain-dog
+dog breed name:Bull Mastiff, size:Giant, slug:bull-mastiff
+dog breed name:Boerboel, size:Giant, slug:boerboel
+dog breed name:Tibetan Mastiff, size:Giant, slug:tibetan-mastiff
+dog breed name:Central Asian Shepherd Dog, size:Giant, slug:central-asian-shepherd-dog
+dog breed name:Irish Wolfhound, size:Giant, slug:irish-wolfhound
+dog breed name:Spanish Mastiff, size:Giant, slug:spanish-mastiff
+dog breed name:Kuvasz, size:Giant, slug:kuvasz
+dog breed name:Moscow Guard, size:Giant, slug:moscow-guard
+dog breed name:Greater Swiss Mountain Dog, size:Giant, slug:greater-swiss-mountain-dog
+dog breed name:Scottish Deerhound, size:Giant, slug:scottish-deerhound
+dog breed name:Kangal Shepherd Dog, size:Giant, slug:kangal-shepherd-dog
+dog breed name:Tosa Inu, size:Giant, slug:tosa-inu
+dog breed name:Giant Schnauzer, size:Giant, slug:giant-schnauzer
+dog breed name:South Russian Shepherd Dog, size:Giant, slug:south-russian-shepherd-dog
+dog breed name:Borzoi, size:Giant, slug:borzoi
+dog breed name:Leonberger, size:Giant, slug:leonberger
+dog breed name:Pyrenean Mastiff, size:Giant, slug:pyrenean-mastiff
+dog breed name:Komondor, size:Giant, slug:komondor
+dog breed name:Caucasian Shepherd Dog, size:Giant, slug:caucasian-shepherd-dog
