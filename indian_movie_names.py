@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 def movie_names_func():
 	
-	for i in range(1920,2028):
+	for i in range(1900,2028):
 	
 		all_movie_names = []
 		url = f"https://en.wikipedia.org/wiki/List_of_Hindi_films_of_{i}"
@@ -24,7 +24,7 @@ def movie_names_func():
 	
 		tables = soup.find_all("table",class_="wikitable")
 	
-		# print(tables)
+		# 	print(tables)
 	
 		for table in tables:
 			# print(table)
@@ -55,7 +55,7 @@ def movie_names_func():
 		# except Exception as e:
 		# 	print(e)
 	
-	
+movie_names_func()
 
 
 

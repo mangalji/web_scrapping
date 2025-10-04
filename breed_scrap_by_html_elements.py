@@ -30,7 +30,7 @@ def animal_names_func():
 
   url_for_animals_names = "https://animalcorner.org/animals/"
 
-  response = requests.get(url, headers=headers)
+  response = requests.get(url_for_animals_names, headers=headers)
   
   soup = BeautifulSoup(response.text,'html.parser')
   all_animals = []
